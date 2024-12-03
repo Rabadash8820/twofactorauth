@@ -1,0 +1,12 @@
+{
+  "Dollar General": {
+    "domain": "dollargeneral.com",
+    "url": "https://www.dollargeneral.com/",
+    "tfa": [
+      "sms"
+    ],
+    "categories": [
+      "retail"
+    ]
+  }
+}
